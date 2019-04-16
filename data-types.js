@@ -27,4 +27,4 @@ let nestedJson = {
 console.log('nested json object:', nestedJson);
 
 // run this file with node data-types.js, you will get the result.
-// any questions ping me on slack or whatsapp.
+// any questions ping me on slack or whatsapp
