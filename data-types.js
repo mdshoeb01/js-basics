@@ -28,3 +28,13 @@ console.log('nested json object:', nestedJson);
 
 // run this file with node data-types.js, you will get the result.
 // any questions ping me on slack or whatsapp
+
+arr = [1, 2, 3]
+
+let arr2 = [6, 7, 8]
+
+console.log(arr2)
+
+arr2.push(...arr)
+
+console.log(arr2)
